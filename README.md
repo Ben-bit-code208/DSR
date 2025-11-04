@@ -31,7 +31,7 @@ Ein Liebesbrief an das goldene Zeitalter der tragbaren Konsolen ❤️
 
 ## 🛠️ Current Status
 Derzeit in der **Konzept- und Bootloader-Phase**.
-Alle Systemideen, Designs und Implementierungen stammen **original von Ben (Grundschule an der Marktschule, 2025)**.
+Alle Systemideen, Designs und Implementierungen stammen **original von Ben (Informatik Projekt Für Ema Ernst-Moritz-Arndt Gymnasium, 2025)**.
 
 ---
 
