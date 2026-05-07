@@ -53,3 +53,9 @@ Keine kommerzielle Nutzung oder Produktwerbung ist geplant.# 🎮 DS Remaster
 *A Modern Dual-Screen Nostalgia Project*
 
 **Concept & Development by Ben (2025)**
+
+# Compiling the files 
+
+## Assembly/Bootloader ##
+
+www.github.com/Ben-bit-code208/DSR/tutorials/asm.md
